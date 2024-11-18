@@ -1,6 +1,5 @@
 #pragma once
 #include <include/cards.h>
-#include <prerequisites.h>
 
 class logic
 {

@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\",
+  "WorkspaceRootPath": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\source\\logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|solutionrelative:Blackjack\\source\\logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\include\\cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blackjack\\include\\cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\include\\logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|solutionrelative:Blackjack\\include\\logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\include\\logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blackjack\\include\\logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\include\\cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|solutionrelative:Blackjack\\include\\cards.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\source\\cards.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blackjack\\source\\cards.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|solutionrelative:Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\prerequisites.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\prerequisites.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|solutionrelative:Blackjack\\prerequisites.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|solutionrelative:Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\cards.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|solutionrelative:Blackjack\\source\\cards.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,22 +44,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "prerequisites.h",
-              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\prerequisites.h",
+              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\prerequisites.h",
               "RelativeDocumentMoniker": "Blackjack\\prerequisites.h",
-              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\prerequisites.h",
+              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\prerequisites.h",
               "RelativeToolTip": "Blackjack\\prerequisites.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-18T14:01:46.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T14:01:46.28Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "logic.cpp",
-              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\source\\logic.cpp",
+              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\logic.cpp",
               "RelativeDocumentMoniker": "Blackjack\\source\\logic.cpp",
-              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\source\\logic.cpp",
+              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\logic.cpp",
               "RelativeToolTip": "Blackjack\\source\\logic.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -68,37 +67,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "cards.cpp",
-              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\source\\cards.cpp",
+              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\cards.cpp",
               "RelativeDocumentMoniker": "Blackjack\\source\\cards.cpp",
-              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\source\\cards.cpp",
+              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\cards.cpp",
               "RelativeToolTip": "Blackjack\\source\\cards.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-18T13:56:56.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T13:56:56.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "logic.h",
-              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\include\\logic.h",
+              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\include\\logic.h",
               "RelativeDocumentMoniker": "Blackjack\\include\\logic.h",
-              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\include\\logic.h",
+              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\include\\logic.h",
               "RelativeToolTip": "Blackjack\\include\\logic.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-18T13:56:43.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "cards.h",
-              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\include\\cards.h",
+              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\include\\cards.h",
               "RelativeDocumentMoniker": "Blackjack\\include\\cards.h",
-              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Blackjack\\include\\cards.h",
+              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\include\\cards.h",
               "RelativeToolTip": "Blackjack\\include\\cards.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -107,11 +105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Game\\main.cpp",
+              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Game\\main.cpp",
               "RelativeDocumentMoniker": "Game\\main.cpp",
-              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Assignment1\\Game\\main.cpp",
+              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Game\\main.cpp",
               "RelativeToolTip": "Game\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
