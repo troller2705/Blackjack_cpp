@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73D545F0-AA41-4A18-8B3A-D60773733444}|Assignment1.vcxproj|solutionrelative:Blackjack\\source\\logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "logic.cpp",
+              "DocumentMoniker": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\logic.cpp",
+              "RelativeDocumentMoniker": "Blackjack\\source\\logic.cpp",
+              "ToolTip": "D:\\College Docs\\Term 2\\122 - Programming Fundimentals 1\\Blackjack_cpp\\Blackjack\\source\\logic.cpp",
+              "RelativeToolTip": "Blackjack\\source\\logic.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T15:05:46.06Z",
+              "EditorCaption": ""
             }
           ]
         }
